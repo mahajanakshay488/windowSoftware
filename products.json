@@ -1,0 +1,34 @@
+{
+    "products":[
+        {
+        "name": "Mozilla Firefox",
+        "description": "Mozilla Firefox (known simply as Firefox) is a free and open source web browser descended from the Mozilla Application Suite.",
+        "img": "https://d2.alternativeto.net/dist/icons/firefox_156308.png?width=150&height=150&mode=crop&upscale=false",
+        "appUrl": "https://alternativeto.net/software/firefox/"  
+        },
+        {
+        "name": "VLC Media Player",
+        "description": "VLC is a free and open source cross-platform multimedia player and framework. Owned by the non-profit organization VideoLAN.",
+        "img": "https://d2.alternativeto.net/dist/icons/vlc-media-player_81957.png?width=150&height=150&mode=crop&upscale=false",
+        "appUrl": "https://alternativeto.net/software/vlc-media-player/"
+        },
+        {
+        "name": "7-Zip",
+        "description": "7-Zip is a file archiver with a high compression ratio.The main features of 7-Zip High compression ratio in 7z format with LZMA and LZMA2 compression",
+        "img": "https://d2.alternativeto.net/dist/icons/7-zip_77565.png?width=150&height=150&mode=crop&upscale=false",
+        "appUrl": "https://alternativeto.net/software/7-zip/"
+        },
+        {
+        "name": "GIMP",
+        "description": "GIMP is a free program for such photo retouching, image composition and image authoring. Essentially it's the closest thing to Photoshop you can get for free.",
+        "img": "https://d2.alternativeto.net/dist/icons/gimp_154706.png?width=150&height=150&mode=crop&upscale=false",
+        "appUrl": "https://alternativeto.net/software/gimp/"
+        },
+        {
+        "name": "Notepade++",
+        "description": "Notepad++ is a free source code editor and Notepad replacement that supports several languages.",
+        "img": "https://d2.alternativeto.net/dist/icons/notepad-plus-plus_96361.png?width=150&height=150&mode=crop&upscale=false",
+        "appUrl": "https://alternativeto.net/software/notepad-plus-plus/"
+        }
+ ]
+}
