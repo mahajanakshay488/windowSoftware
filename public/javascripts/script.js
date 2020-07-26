@@ -1,8 +1,7 @@
-console.log("hey");
-
 axios.get('/details')
 .then(function(response){
     let product = response.data.products;
+  
     var container = "";
     product.forEach(function(elem){
        container += ` <section>
@@ -13,8 +12,13 @@ axios.get('/details')
        <div class="desc-div">
          <h2>${elem.name}</h2>
          <p>${elem.description}</p>
+         <a href="#">Download CSV File</a>
        </div>  
      </section>`
     });
     document.querySelector('main').innerHTML = container; 
 });
+
+
+
+
